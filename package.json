@@ -1,8 +1,8 @@
 {
-  "name": "contracts",
+  "name": "@blussem/contracts",
   "version": "1.0.0",
   "author": "Hansel Abreu",
-  "license": "ISC",
+  "license": "MIT",
   "scripts": {
     "clean": "npx hardhat clean",
     "test": "npx hardhat test",
