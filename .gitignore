@@ -7,3 +7,12 @@ coverage.json
 /cache
 /artifacts
 /typechain
+
+# yarn
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
