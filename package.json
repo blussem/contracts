@@ -1,6 +1,6 @@
 {
   "name": "@blussem/contracts",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "author": "Hansel Abreu",
   "license": "MIT",
   "packageManager": "yarn@3.1.1",
@@ -9,8 +9,8 @@
     "registry": "https://npm.pkg.github.com"
   },
   "files": [
-    "artifacts/**/*",
-    "contracts/**/*"
+    "artifacts",
+    "contracts"
   ],
   "scripts": {
     "clean": "npx hardhat clean",
